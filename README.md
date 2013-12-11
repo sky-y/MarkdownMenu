@@ -13,7 +13,7 @@ Then doubleclick and install it.
 
 ### 2. MarkdownMenu
 
-* Download the zip file here and unzip.
+* Download the zip file from [here](https://github.com/sky-y/MarkdownMenu/archive/master.zip) and unzip.
 * Rightclick `markdown-menus-win8.bat` and click `Run as administrator`.
 * Click `Yes`. Done.
 
